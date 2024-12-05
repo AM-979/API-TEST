@@ -1,0 +1,27 @@
+{
+  "name": "jbc-price",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AM-979/API-TEST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AM-979/API-TEST/issues"
+  },
+  "homepage": "https://github.com/AM-979/API-TEST#readme",
+  "dependencies": {
+    "express": "*"
+  },
+  "engines": {
+    "node": ">=8.11.3"
+  }
+}
