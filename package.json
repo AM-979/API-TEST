@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/AM-979/API-TEST#readme",
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "axios": "*"
+    
   },
   "engines": {
     "node": ">=8.11.3"
